@@ -1617,5 +1617,3 @@ def getColoredText(text, color):
 		out += "```"
 
 	return out
-
-print(getColoredText("this is a test\n and another", "green"))
