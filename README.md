@@ -4,7 +4,7 @@ A simple helper library for discord.py
 ## Features
 
 `getEmoteFromName(name)`
-This gets the unicode emoji that corresponds to the discord emoji, like how ":grinning:" is "😀" in reactions.
+This gets the unicode emoji that corresponds to the discord emoji, like how "\:grinning:" is "😀" in reactions.
 
 `getNameFromEmote(emote)`
 The exact opposite of `getEmoteFromName` as this takes in the emoji and gives back the name
