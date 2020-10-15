@@ -1,6 +1,6 @@
 README.md
 setup.py
-Package/__init__.py
+discordhelp/__init__.py
 discordhelp.egg-info/PKG-INFO
 discordhelp.egg-info/SOURCES.txt
 discordhelp.egg-info/dependency_links.txt

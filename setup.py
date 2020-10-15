@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="discordhelp",
-    version="1.0.1",
+    version="1.0.5",
     author="Ashvin Ranjan",
     author_email="me@ash.vin",
     description="A library to help with discord.py",

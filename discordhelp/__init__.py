@@ -1547,8 +1547,8 @@ _urlFind = r"(?i)\b((?:https?://|www\d{0,3}[.]|[a-z0-9.\-]+[.][a-z]{2,4}/)(?:[^\
 def getEmoteFromName(name):
 	return emotes[name]
 
-def getNameFromeEmote(emote):
-	return name[emote]
+def getNameFromEmote(emote):
+	return names[emote]
 
 def createEmbed(title, text, footer, author_name, color):
 	embed=discord.Embed(title=title, description=text, color=color)
