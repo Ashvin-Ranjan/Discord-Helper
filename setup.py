@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="discordhelper-Ashvin-Ranjan", # Replace with your own username
-    version="1.0.0",
+    name="discordhelp",
+    version="1.0.1",
     author="Ashvin Ranjan",
     author_email="me@ash.vin",
     description="A library to help with discord.py",

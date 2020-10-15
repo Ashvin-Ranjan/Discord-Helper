@@ -4,7 +4,7 @@ A simple helper library for discord.py
 ## Features
 
 `getEmoteFromName(name)`
-This gets the unicode emoji that corresponds to the discord emoji, like how `:grinning:` is "😀" in reactions.
+This gets the unicode emoji that corresponds to the discord emoji, like how `:grinning:` is the grinning emoji when adding reactions.
 
 `getNameFromEmote(emote)`
 The exact opposite of `getEmoteFromName` as this takes in the emoji and gives back the name
@@ -34,9 +34,7 @@ Responds with the formatting corresponding to the color, here are the following 
 
 ## Version & Fixes
 
-The code is in version 1.0.0
-Please feel free to fork and make suggestions about this library
+Please feel free to make fixes and put up issues at [the github repo](https://github.com/Ashvin-Ranjan/Discord-Helper)
 
-## How to install
-
-Run setup.py
+### Fixes
+- Fixed the readme
